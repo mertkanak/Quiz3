@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="city_array">
+        <item>Ankara</item>
+        <item>Istanbul</item>
+        <item>Izmir</item>
+        <item>Konya</item>
+        <item>Antalya</item>
+    </string-array>
+</resources>
